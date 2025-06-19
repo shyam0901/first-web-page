@@ -88,6 +88,12 @@ features-img.anim{
     transform: translateY(30px);
     animation: moveup 1s linear forwards;
 }
+
+
+.toon{
+    font-size: larger;
+}
+
 @keyframes moveup {
     100%{
         opacity: 1;
